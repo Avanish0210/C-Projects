@@ -15,10 +15,8 @@ A simple terminal-based Snake Game built using C++ as a beginner-level project. 
 - Basic terminal I/O
 - Git & GitHub
 
-## 📸 Screenshot
-> _(Optional: Add a screenshot here if you have one, named `screenshot.png`)_
-
-![Screenshot](screenshot.png)
+## 📸 deamo vdo
+(https://drive.google.com/file/d/13UJe-Y5lTWhgMFkuZF9mqHEnNrMS4uHy/view?usp=sharing)
 
 ## 🚀 How to Run
 
