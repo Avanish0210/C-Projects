@@ -53,16 +53,15 @@ Console-based Snake Game implemented in C++ using simple logic, without using gr
 
 ---
 
-### ➕ Project 5: Sum of Numbers
+### 🎮 Tic-Tac-Toe Game in C++
+A simple 2-player console-based Tic-Tac-Toe game built using C++. This project helped me understand core programming concepts like arrays, functions, input validation, and control flow in a fun and interactive way.
 
-**Description:**  
-Takes multiple integers as input and computes their sum. This project serves as a basic I/O and arithmetic operations demo.
-
-**Files:**  
-- `Sum_of_no.cpp` - Source code  
-- `Sum_of_no.exe` - Executable
-
----
+📌 Features
+🧑‍🤝‍🧑 2-player game (Player X vs Player O)
+🖥️ Console-based board rendering
+✅ Valid move checking
+🏆 Win and draw detection logic
+🔁 Game loop until completion
 
 ## 🛠 How to Compile and Run
 
